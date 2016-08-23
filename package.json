@@ -1,0 +1,26 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puranik3/hello-node.git"
+  },
+  "keywords": [
+    "node.js",
+    "hello"
+  ],
+  "author": "prashanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puranik3/hello-node/issues"
+  },
+  "homepage": "https://github.com/puranik3/hello-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
